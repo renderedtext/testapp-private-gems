@@ -1,5 +1,5 @@
 GIT
-  remote: https://rastasheep:140925f9d906a8261f4a00df8d2e78eb89f5f990@github.com/renderedtext/carrierwave.git
+  remote: https://eefcd2aaafca2dbcae157bb2c73bebe256ac124e:x-oauth-basic@github.com/renderedtext/carrierwave.git
   revision: 8351e5121927998b4e3bc844244f98b9b5f8dcb1
   specs:
     carrierwave (0.9.0)
@@ -8,7 +8,7 @@ GIT
       json (>= 1.7)
 
 GIT
-  remote: https://rastasheep:140925f9d906a8261f4a00df8d2e78eb89f5f990@github.com/renderedtext/devise.git
+  remote: https://eefcd2aaafca2dbcae157bb2c73bebe256ac124e:x-oauth-basic@github.com/renderedtext/devise.git
   revision: 9464416c3e48735ef2d8bb2fafa09ab2a7eac77c
   specs:
     devise (3.1.0)
@@ -19,7 +19,7 @@ GIT
       warden (~> 1.2.3)
 
 GIT
-  remote: https://rastasheep:140925f9d906a8261f4a00df8d2e78eb89f5f990@github.com/renderedtext/meta_search.git
+  remote: https://eefcd2aaafca2dbcae157bb2c73bebe256ac124e:x-oauth-basic@github.com/renderedtext/meta_search.git
   revision: c7f084412c483456830b8ec26514991e17da94c7
   specs:
     meta_search (1.1.3)
@@ -98,13 +98,12 @@ GEM
       nokogiri (>= 1.5.0)
     daemons (1.1.9)
     database_cleaner (0.9.1)
-    debugger (1.3.3)
+    debugger (1.6.1)
       columnize (>= 0.3.1)
-      debugger-linecache (~> 1.1.1)
-      debugger-ruby_core_source (~> 1.2.0)
-    debugger-linecache (1.1.2)
-      debugger-ruby_core_source (>= 1.1.1)
-    debugger-ruby_core_source (1.2.0)
+      debugger-linecache (~> 1.2.0)
+      debugger-ruby_core_source (~> 1.2.3)
+    debugger-linecache (1.2.0)
+    debugger-ruby_core_source (1.2.3)
     diff-lcs (1.1.3)
     dynamic_form (1.1.4)
     email_spec (1.4.0)
